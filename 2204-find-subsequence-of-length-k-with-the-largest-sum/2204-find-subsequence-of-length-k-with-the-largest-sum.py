@@ -3,7 +3,6 @@ class Solution:
         dummy=nums.copy()
         dummy.sort(reverse=True)
         counter=Counter(dummy[:k])
-        print(counter)
         answer=[]
         print()
         for i in nums:
