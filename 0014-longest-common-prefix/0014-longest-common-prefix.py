@@ -18,7 +18,7 @@ class Solution:
                 node=self.root
                 prefix=""
                 for ch in (word):
-                    if ch in node.children and len(node.children)==1:
+                    if ch in node.children and len(node.children)==1 and not node.end:
                         node=node.children[ch]
                         prefix+=ch
                     else:
@@ -27,7 +27,7 @@ class Solution:
         trie=Trie()
         for i in strs:
             trie.insert(i)
-        strs.sort()
+        
         return trie.search(strs[0])
                     
             
