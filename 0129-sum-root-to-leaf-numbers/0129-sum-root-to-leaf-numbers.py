@@ -11,14 +11,14 @@ class Solution:
             if root is None:
                 return
             if root.right is None and root.left is None:
-                l.append(int(root.val))
+                l.append(root.val)
                 return
             
             if root.left:
-                root.left.val=str(root.val)+str(root.left.val)
+                root.left.val=(root.val*10)+(root.left.val)
                 path(root.left) 
             if root .right:
-                root.right.val=str(root.val)+str(root.right.val)   
+                root.right.val=(root.val*10)+(root.right.val)   
                 path(root.right) 
         l=[]
         path(root)
