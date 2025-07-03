@@ -6,10 +6,9 @@
 #         self.right = right
 class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
-        def check_length(root):
-            if not root:
+        def check(root):
+            if not root :
                 return 0
-
             q=deque([root])
             c=0
             while q:
@@ -22,10 +21,10 @@ class Solution:
                         q.append(node.right)
                 c+=1
             return c
-        if not root :
+        if not root:
             return True
-        left=check_length(root.left)
-        right=check_length(root.right)
-        if abs(right-left)>1 :
+        left=check(root.left)
+        right=check(root.right)
+        if abs(left-right)>1:
             return False
         return self.isBalanced(root.left) and self.isBalanced(root.right)
