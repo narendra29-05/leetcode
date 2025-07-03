@@ -49,16 +49,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/narendra29-05/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/narendra29-05/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/narendra29-05/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/narendra29-05/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/narendra29-05/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/narendra29-05/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/narendra29-05/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/narendra29-05/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/narendra29-05/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## String
 |  |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/narendra29-05/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/narendra29-05/leetcode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
