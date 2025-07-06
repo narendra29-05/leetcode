@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/narendra29-05/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/narendra29-05/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/narendra29-05/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0543-diameter-of-binary-tree](https://github.com/narendra29-05/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/narendra29-05/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/narendra29-05/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/narendra29-05/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/narendra29-05/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0543-diameter-of-binary-tree](https://github.com/narendra29-05/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/narendra29-05/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/narendra29-05/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/narendra29-05/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/narendra29-05/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0543-diameter-of-binary-tree](https://github.com/narendra29-05/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/narendra29-05/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## String
 |  |
