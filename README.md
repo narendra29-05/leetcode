@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/narendra29-05/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/narendra29-05/leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/narendra29-05/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/narendra29-05/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/narendra29-05/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/narendra29-05/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/narendra29-05/leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/narendra29-05/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/narendra29-05/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/narendra29-05/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/narendra29-05/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/narendra29-05/leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/narendra29-05/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/narendra29-05/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/narendra29-05/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -131,4 +134,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/narendra29-05/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/narendra29-05/leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
