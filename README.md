@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/narendra29-05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0500-keyboard-row](https://github.com/narendra29-05/leetcode/tree/master/0500-keyboard-row) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/narendra29-05/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3396-valid-word](https://github.com/narendra29-05/leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/narendra29-05/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Trie
@@ -152,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/narendra29-05/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Stack
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/narendra29-05/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Greedy
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/narendra29-05/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
