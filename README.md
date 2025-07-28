@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/narendra29-05/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/narendra29-05/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/narendra29-05/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/narendra29-05/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/narendra29-05/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/narendra29-05/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/narendra29-05/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/narendra29-05/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/narendra29-05/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/narendra29-05/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/narendra29-05/leetcode/tree/master/0113-path-sum-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/narendra29-05/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/narendra29-05/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/narendra29-05/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
