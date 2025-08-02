@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/narendra29-05/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/narendra29-05/leetcode/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/narendra29-05/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/narendra29-05/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/narendra29-05/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/narendra29-05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0500-keyboard-row](https://github.com/narendra29-05/leetcode/tree/master/0500-keyboard-row) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/narendra29-05/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/narendra29-05/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/narendra29-05/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Linked List
 |  |
