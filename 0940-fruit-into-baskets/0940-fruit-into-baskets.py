@@ -13,7 +13,7 @@ class Solution:
             d[fruits[right]] += 1
             maxi += 1
             
-            # If we have more than 2 types, shrink the window
+            # If we have more than 2 types
             while len(d) > 2:
                 d[fruits[left]] -= 1
                 if d[fruits[left]] == 0:
@@ -22,6 +22,6 @@ class Solution:
                 maxi -= 1
 
             max_ele = max(max_ele, maxi)
-            right += 1  # Missing increment that caused an infinite loop
+            right += 1  
         
         return max_ele
