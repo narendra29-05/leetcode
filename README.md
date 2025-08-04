@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/narendra29-05/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/narendra29-05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0500-keyboard-row](https://github.com/narendra29-05/leetcode/tree/master/0500-keyboard-row) |
+| [0940-fruit-into-baskets](https://github.com/narendra29-05/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/narendra29-05/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/narendra29-05/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/narendra29-05/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/narendra29-05/leetcode/tree/master/0500-keyboard-row) |
+| [0940-fruit-into-baskets](https://github.com/narendra29-05/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/narendra29-05/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/narendra29-05/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/narendra29-05/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/narendra29-05/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/narendra29-05/leetcode/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
