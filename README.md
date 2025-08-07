@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/narendra29-05/leetcode/tree/master/0069-sqrtx) |
+| [1013-fibonacci-number](https://github.com/narendra29-05/leetcode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/narendra29-05/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/narendra29-05/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Two Pointers
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/narendra29-05/leetcode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/narendra29-05/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/narendra29-05/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/narendra29-05/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/narendra29-05/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [1013-fibonacci-number](https://github.com/narendra29-05/leetcode/tree/master/1013-fibonacci-number) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/narendra29-05/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Linked List
 |  |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/narendra29-05/leetcode/tree/master/0940-fruit-into-baskets) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/narendra29-05/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
