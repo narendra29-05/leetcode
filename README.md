@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/narendra29-05/leetcode/tree/master/0014-longest-common-prefix) |
 | [0500-keyboard-row](https://github.com/narendra29-05/leetcode/tree/master/0500-keyboard-row) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/narendra29-05/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/narendra29-05/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/narendra29-05/leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/narendra29-05/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Trie
