@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/narendra29-05/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/narendra29-05/leetcode/tree/master/0070-climbing-stairs) |
+| [0342-power-of-four](https://github.com/narendra29-05/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/narendra29-05/leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/narendra29-05/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/narendra29-05/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -124,12 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/narendra29-05/leetcode/tree/master/0342-power-of-four) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/narendra29-05/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/narendra29-05/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/narendra29-05/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/narendra29-05/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/narendra29-05/leetcode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/narendra29-05/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/narendra29-05/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
