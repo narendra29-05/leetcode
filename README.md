@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/narendra29-05/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/narendra29-05/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/narendra29-05/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/narendra29-05/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/narendra29-05/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/narendra29-05/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/narendra29-05/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Breadth-First Search
 |  |
 | ------- |
