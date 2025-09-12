@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/narendra29-05/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/narendra29-05/leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/narendra29-05/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3462-vowels-game-in-a-string](https://github.com/narendra29-05/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/narendra29-05/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/narendra29-05/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Two Pointers
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/narendra29-05/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/narendra29-05/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3396-valid-word](https://github.com/narendra29-05/leetcode/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/narendra29-05/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/narendra29-05/leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Trie
 |  |
@@ -208,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/narendra29-05/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/narendra29-05/leetcode/tree/master/1013-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/narendra29-05/leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/narendra29-05/leetcode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
