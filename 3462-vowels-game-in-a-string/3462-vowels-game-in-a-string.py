@@ -5,7 +5,7 @@ class Solution:
         for i in s:
             if i in vowels:
                 vowel+=1
-        if vowel >=1:
-            return True
-        return False
+        if vowel==0:
+            return False
+        return True
         
