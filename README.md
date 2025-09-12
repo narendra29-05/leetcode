@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/narendra29-05/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/narendra29-05/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/narendra29-05/leetcode/tree/master/0101-symmetric-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/narendra29-05/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/narendra29-05/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/narendra29-05/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/narendra29-05/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/narendra29-05/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/narendra29-05/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/narendra29-05/leetcode/tree/master/0101-symmetric-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/narendra29-05/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/narendra29-05/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/narendra29-05/leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/narendra29-05/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/narendra29-05/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/narendra29-05/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/narendra29-05/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/narendra29-05/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Design
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/narendra29-05/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/narendra29-05/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
@@ -220,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/narendra29-05/leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/narendra29-05/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
