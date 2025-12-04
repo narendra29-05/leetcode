@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/narendra29-05/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0500-keyboard-row](https://github.com/narendra29-05/leetcode/tree/master/0500-keyboard-row) |
 | [0940-fruit-into-baskets](https://github.com/narendra29-05/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/narendra29-05/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/narendra29-05/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/narendra29-05/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/narendra29-05/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/narendra29-05/leetcode/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/narendra29-05/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/narendra29-05/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/narendra29-05/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2591-frog-jump-ii](https://github.com/narendra29-05/leetcode/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/narendra29-05/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
