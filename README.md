@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/narendra29-05/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2591-frog-jump-ii](https://github.com/narendra29-05/leetcode/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/narendra29-05/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/narendra29-05/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/narendra29-05/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/narendra29-05/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/narendra29-05/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/narendra29-05/leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/narendra29-05/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/narendra29-05/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/narendra29-05/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/narendra29-05/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/narendra29-05/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/narendra29-05/leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/narendra29-05/leetcode/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/narendra29-05/leetcode/tree/master/0178-rank-scores) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/narendra29-05/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
