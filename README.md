@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/narendra29-05/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/narendra29-05/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/narendra29-05/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/narendra29-05/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/narendra29-05/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/narendra29-05/leetcode/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/narendra29-05/leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -288,5 +289,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/narendra29-05/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/narendra29-05/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
