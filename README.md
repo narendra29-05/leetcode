@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/narendra29-05/leetcode/tree/master/0704-binary-search) |
 | [0940-fruit-into-baskets](https://github.com/narendra29-05/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/narendra29-05/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/narendra29-05/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/narendra29-05/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/narendra29-05/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/narendra29-05/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/narendra29-05/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/narendra29-05/leetcode/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/narendra29-05/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/narendra29-05/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/narendra29-05/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2591-frog-jump-ii](https://github.com/narendra29-05/leetcode/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/narendra29-05/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/narendra29-05/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/narendra29-05/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/narendra29-05/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/narendra29-05/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Breadth-First Search
