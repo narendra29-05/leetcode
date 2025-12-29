@@ -16,20 +16,20 @@ class Solution:
                 return b
             if head is None:
                 return head
-            c=k
             temp=head
             headcopy=head
-            copy=head
-            while c>1 and temp.next:
-                temp=temp.next
+            c=k
+            first=head
+            while temp.next and c>1:
                 c-=1
+                temp=temp.next
             if c==1:
-                link=temp.next
+                second=temp.next
                 temp.next=None
-                copy=rev(copy)
-                headcopy.next=self.reverseKGroup(link,k)
-            return copy
+                first=rev(head)
+                headcopy.next=self.reverseKGroup(second,k)
+            return first
+            
 
-
-
-        
+                
+            
