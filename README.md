@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/narendra29-05/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0342-power-of-four](https://github.com/narendra29-05/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/narendra29-05/leetcode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/narendra29-05/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/narendra29-05/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/narendra29-05/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/narendra29-05/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/narendra29-05/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Stack
