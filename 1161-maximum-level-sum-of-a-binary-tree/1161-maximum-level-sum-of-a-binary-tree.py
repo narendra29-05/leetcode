@@ -24,11 +24,7 @@ class Solution:
                 if node.right:
                     q.append(node.right)
             if sum>ans:
-                print(sum)
                 ans=sum
                 order=level
             level+=1
-        if sum>ans:
-            ans=sum
-            order=level
         return order
