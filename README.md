@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/narendra29-05/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2591-frog-jump-ii](https://github.com/narendra29-05/leetcode/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/narendra29-05/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/narendra29-05/leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/narendra29-05/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/narendra29-05/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/narendra29-05/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
