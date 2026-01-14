@@ -1,27 +1,44 @@
-
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
 #         self.val = val
 #         self.left = left
 #         self.right = right
-
 class Solution:
     def recoverTree(self, root: Optional[TreeNode]) -> None:
-        self.first=self.prev=self.second=None
-        def inorder(node):
+        """
+        Do not return anything, modify root in-place instead.
+        """
+        inOrder = []
+
+        def inOrderTraversal(node):
             if not node:
-                return True
-            inorder(node.left)
-            if self.prev and node.val<self.prev.val:
-                if not self.first:
-                    self.first=self.prev
-                self.second=node
-            self.prev = node
-            inorder(node.right)
+                return
+            
+            inOrderTraversal(node.left)
+            inOrder.append(node)
+            inOrderTraversal(node.right)
         
-        self.prev = TreeNode(float('-inf'))
-        inorder(root)
+        inOrderTraversal(root)
+        for i in inOrder:
+            print(i.val)
         
-        # Swap the values of the two nodes
-        self.first.val, self.second.val = self.second.val, self.first.val
+        biggest = None
+        nextSmall = None
+
+        for i in range(len(inOrder) - 1):
+            # print(inOrder[i].val)
+
+            if inOrder[i].val > inOrder[i+1].val:
+                if not biggest:
+                    biggest = inOrder[i]
+                nextSmall = inOrder[i + 1]
+        
+        
+        if not biggest or not nextSmall:
+            return 
+        if biggest and nextSmall:
+            biggest.val, nextSmall.val = nextSmall.val, biggest.val
+        
+            
+        
